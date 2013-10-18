@@ -43,7 +43,7 @@ UO.TargCurs = true
 wait(5000)
 finishedcontainer = UO.LTargetID
 
---Identifies your chest of existing scrolls, if this option is selected--
+--Identifies your chest of existing scrolls, if option is selected--
 if ExScrollChest == 1 then
 UO.TargCurs = true
 print ("You have 5 seconds to target your chest of existing scrolls")
