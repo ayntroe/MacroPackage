@@ -9,4 +9,4 @@ bookfiller.lua
 craftscrollsengine.lua
 spelltable.lua
 
-The FindItems.lua library was a seperate method library I used to create the previous scripts.
+The FindItems.lua library was a seperate method library, not created by me, that I used to create the previous scripts.
