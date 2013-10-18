@@ -5,7 +5,6 @@ dofile("craftscrollsengine.lua")
 --Alain's spellbook filler
 --Version 1.2, 04/1/2012
 
-
 --For this script you need  two seperate containers, one for resources and one for finished books.
 
 ExScrollChest = 0 --Change to 1 if you have a chest of scrolls from hunting/etc you want to use to help fill your books.
